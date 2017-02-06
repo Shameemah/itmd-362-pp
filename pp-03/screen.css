@@ -186,12 +186,32 @@ textarea {
 http://www.modularscale.com/?18&px&1.2&web&text */
 
 html {
-	font-size: 1.406em; /*22.5px @ 16px*/
-	line-height: 1.6875em;
+	font-size: 1.406em; 
+	line-height: 1.22em;
+	font-family: "Helvetica", sans-serif;
 }
 
 label, 
 input {
-	display: block;
+	box-sizing: border-box;
+  width: 100%;
+  display: block;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border: 0;
+  margin: 0;
+  padding-left: 0.5em;
 }
 
+li {
+	padding-bottom: 1.2em;
+}
+
+/* ===== MODUlAR STYLES ===== */
+
+/* ===== LAYOUT STYLES ===== */
+label, 
+input {
+  padding-left: 0.5em;
+}
