@@ -180,3 +180,18 @@ textarea {
 }
 
 /* end normalize.css form styles */
+
+/* ===== BASE STYLES ===== */
+/* Setting type to a major third modular scale - 4:5
+http://www.modularscale.com/?18&px&1.2&web&text */
+
+html {
+	font-size: 1.406em; /*22.5px @ 16px*/
+	line-height: 1.6875em;
+}
+
+label, 
+input {
+	display: block;
+}
+
