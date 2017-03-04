@@ -199,6 +199,10 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+h1 {
+	font-weight: 800;
+}
+
 label {
   display: block;
 }
