@@ -205,6 +205,11 @@ label {
 input {
 	border: 0;
 	background-color: #CDCDCD;
+	box-sizing: border-box;
+	border-radius: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
 }
 
 /* ===== LAYOUT STYLES ====== */
@@ -214,4 +219,6 @@ input {
 	width: 100%;
 }
 /* ===== STATE STYLES ======= */
-
+input[type="checkbox"] + label {
+  display: inline;
+}
