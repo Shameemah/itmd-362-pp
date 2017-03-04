@@ -213,10 +213,14 @@ input {
 }
 
 /* ===== LAYOUT STYLES ====== */
+input {
+	padding: 1.182em;
+}
 
 /* ===== MODULAR STYLES ===== */
 #email, #submit {
 	width: 100%;
+	margin-bottom: 1.182em;
 }
 /* ===== STATE STYLES ======= */
 input[type="checkbox"] + label {
