@@ -204,11 +204,14 @@ label {
 
 input {
 	border: 0;
+	background-color: #CDCDCD;
 }
 
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
-
+#email, #submit {
+	width: 100%;
+}
 /* ===== STATE STYLES ======= */
 
