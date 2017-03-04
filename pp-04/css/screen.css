@@ -195,7 +195,7 @@ html {
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
-  font-family: 'Cormorant Garamond';
+  font-family: 'Cormorant Garamond', Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
   text-rendering: optimizeLegibility;
 }
 
