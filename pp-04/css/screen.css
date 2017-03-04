@@ -199,10 +199,6 @@ html {
   text-rendering: optimizeLegibility;
 }
 
-h1 {
-	font-weight: 800;
-}
-
 label {
   display: block;
 }
@@ -234,4 +230,8 @@ p {
 /* ===== STATE STYLES ======= */
 input[type="checkbox"] + label {
   display: inline;
+}
+
+.wf-active h1 {
+	font-weight: 800;
 }
