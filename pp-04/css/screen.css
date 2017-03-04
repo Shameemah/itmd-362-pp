@@ -195,6 +195,7 @@ html {
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
+  font-family: 'Cormorant Garamond';
   text-rendering: optimizeLegibility;
 }
 
@@ -215,6 +216,10 @@ input {
 /* ===== LAYOUT STYLES ====== */
 input {
 	padding: 1.182em;
+}
+
+p {
+	margin-bottom: 1.182em;
 }
 
 /* ===== MODULAR STYLES ===== */
