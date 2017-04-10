@@ -30,8 +30,9 @@ Small commits to your Production Problems repository that include:
 * How you implemented it in your sketch: In the sketch, there are hints present in the input fields to help communication purposes. 
 	Also, the login button appears to enable advancement only when the required information has been entered.
 
-* HCI Guidline Two (URL): 
-* How you implemented it in your sketch: 
+* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/layout/
+* How you implemented it in your sketch: Alignment is used to make the page easy on the eye. 
+Also, primary content is is clear and visible at the default size.
 
 * HCI Guidline Three (URL): 
 * How you implemented it in your sketch:                                          
