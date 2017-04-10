@@ -34,5 +34,6 @@ Small commits to your Production Problems repository that include:
 * How you implemented it in your sketch: Alignment is used to make the page easy on the eye. 
 Also, primary content is is clear and visible at the default size.
 
-* HCI Guidline Three (URL): 
-* How you implemented it in your sketch:                                          
+* HCI Guidline Three (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742478(v=vs.85).aspx
+* How you implemented it in your sketch: Bold is used sparingly and no italics are used at all. Question marks are present
+at the end of questions. Main instructions are very clear and visible.                                         
