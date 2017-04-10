@@ -26,11 +26,12 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/interaction/data-entry/
+* How you implemented it in your sketch: In the sketch, there are hints present in the input fields to help communication purposes. 
+	Also, the login button appears to enable advancement only when the required information has been entered.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): 
+* How you implemented it in your sketch: 
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): 
+* How you implemented it in your sketch:                                          
