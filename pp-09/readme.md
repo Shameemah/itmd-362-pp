@@ -18,13 +18,13 @@ create your own master usability checklist.
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. All major parts of the site are accessible from homepage
+2. Users can easily return to homepage
+3. Main navigation is easily identified
+4. Adequate text-to-background contrast
+5. Consistent styles and colors
+6. Font size and spacing is easy to read
+7. Clear and descriptive major headings
+8. Links are easy to identify
+9. Meaningful URLs
+10. Clear and easy-on-the-eye page layout
